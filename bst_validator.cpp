@@ -1,4 +1,4 @@
-/******************************
+/*
 Pseudocode:
 Formation function
   Allocates origin to a new Tree
@@ -30,7 +30,7 @@ main function
   Initializes int array[]
   For loop to Ammend each parent
   Prints the result
-******************************/
+*/
 
 #include <iostream>
 #include <vector>
